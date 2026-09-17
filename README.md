@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привіт, я Нікіта 👋
 
-<!--
-**NikitaRom666/NikitaRom666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Про мене
+- 🎓 Студент спеціальності «Інженерія програмного забезпечення» та «Кібербезпека».
+- 💻 Розробляю проєкти на C#, Python, C++.
+- 🔒 Цікавлюся безпекою додатків, системним адмініструванням Linux та оптимізацією систем.
 
-Here are some ideas to get you started:
+### 🛠 Технологічний стек
+- **Мови програмування:** C#, Python, C++, C
+- **Інструменти та технології:** Git, Linux, Postman, SQLite, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Контакти
+- **GitHub:** https://github.com/NikitaRom666
